@@ -53,13 +53,14 @@ section #formulario {
     padding: 10px;
 }
 
-section #formulario h1 {
+section #formulario > h1 {
     text-align: center;
     padding-bottom: 10px;
 }
 
 section #formulario p {
     font-size: 0.8em;
+    padding-bottom: 10px;
 }
 
 
